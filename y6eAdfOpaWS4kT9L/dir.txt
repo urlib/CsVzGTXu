@@ -1,0 +1,39 @@
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 CE2F-63AD
+
+ C:\Users\Administrator\Desktop\WorkSpace\xjoi 的目录
+
+[.]                          cfysxt.cpp
+[..]                         cfysxt.exe
+0.cpp                        ddl.cpp
+0.py                         dinic.cpp
+000000.cpp                   dinic.exe
+000000.exe                   dinic_t.cpp
+1.cpp                        dinic_t.exe
+13.cpp                       download.cpp
+1353-1-fft.cpp               download.exe
+1353-1-fft.exe               fc.txt
+1353-1.cpp                   fft.cpp
+1353-1.exe                   fft.exe
+1353-3.cpp                   ftt-2.cpp
+1353-3.exe                   lg.rar
+1354-1.cpp                   link-cut-tree.cpp
+1354-1.exe                   mo.cpp
+1354-2.cpp                   mo.exe
+18.cpp                       my.out
+2.cpp                        setup.py
+3.cpp                        ShadowsocksR.rar
+4.cpp                        sp10707.cpp
+5.cpp                        splay.cpp
+7.cpp                        std.out
+940F.cpp                     tempCodeRunnerFile (2).cpp
+940F.exe                     tempCodeRunnerFile.cpp
+a.exe                        tempCodeRunnerFile.exe
+adauouf98ysf9.cpp            tempCodeRunnerFile.py
+CF1073D.cpp                  testdata.in
+CF1271D.cpp                  testdata.out
+CF1271D.exe                  u.cpp
+CF1280C.cpp                  xjoi.rar
+CF1281B.py                   
+              61 个文件     60,039,143 字节
+               2 个目录 115,269,943,296 可用字节
