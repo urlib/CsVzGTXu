@@ -1,0 +1,42 @@
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 CE2F-63AD
+
+ C:\Users\Administrator\Desktop\WorkSpace\lg 的目录
+
+[.]                          lg.url
+[..]                         lg.zip
+0.cpp                        my.out
+0.py                         put_file.py
+1.cpp                        put_file_test.py
+13.cpp                       random_generator.cpp
+1494.cpp                     random_generator.s
+18.cpp                       random_generator.zip
+1903.cpp                     rg.exe
+2.cpp                        settings.json
+2574.cpp                     setup.py
+3.cpp                        ShadowsocksR.rar
+3203-pai.cpp                 shadowsocks_2019-11.log
+3203.cpp                     shadowsocks_2019-12.log
+3690-ma.cpp                  std.out
+3690.cpp                     tasklist.rar
+3870.cpp                     tempCodeRunnerFile (2).cpp
+4.cpp                        tempCodeRunnerFile.cpp
+5.cpp                        tempCodeRunnerFile.py
+7.cpp                        tempCodeRunnerFile.zip
+a.cpp                        testdata.in
+captain-mo.cpp               testdata.out
+CF1073D.cpp                  txt.zip
+cfysxt.cpp                   update.cmd
+c_cpp_properties.json        upload-image.py
+default.py                   upload-lg.py
+Default.rdp                  upload-proxy.py
+dinic.cpp                    upload-simple.py
+dinic_t.cpp                  upload.py
+download_nsfw_urls.py        upload.rar
+exe.zip                      wcgf.py
+gen_name.py                  wget.exe
+hosts                        xjoi.rar
+lg-2.url                     __pycache__.rar
+lg.rar                       
+              67 个文件     38,250,263 字节
+               2 个目录 115,093,291,008 可用字节
