@@ -1,0 +1,51 @@
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 CE2F-63AD
+
+ C:\Users\Administrator\Desktop\WorkSpace\lg 的目录
+
+[.]                          download_nsfw_urls.py
+[..]                         exe.zip
+0.cpp                        gen_name.py
+0.py                         hosts
+1.cpp                        lg-2.url
+13.cpp                       lg.rar
+1494.cpp                     lg.url
+18.cpp                       lg.zip
+1903.cpp                     my.out
+2.cpp                        P3338.cpp
+2574.cpp                     put_file.py
+2756-reference.cpp           put_file_test.py
+2756.cpp                     random_generator.cpp
+3.cpp                        random_generator.s
+3203-pai.cpp                 random_generator.zip
+3203.cpp                     rg.exe
+3338-ref.cpp                 settings.json
+3338.cpp                     setup.py
+3690-ma.cpp                  ShadowsocksR.rar
+3690.cpp                     shadowsocks_2019-11.log
+3870.cpp                     shadowsocks_2019-12.log
+4.cpp                        std.out
+4525.cpp                     tasklist.rar
+5.cpp                        tempCodeRunnerFile (2).cpp
+7.cpp                        tempCodeRunnerFile.cpp
+a.cpp                        tempCodeRunnerFile.exe
+captain-mo.cpp               tempCodeRunnerFile.py
+CF1073D.cpp                  tempCodeRunnerFile.zip
+CF1186F.cpp                  testdata.in
+CF1251F-ref.cpp              testdata.out
+CF1251F.cpp                  txt.zip
+CF1251F.exe                  update.cmd
+CF196C.cpp                   upload-image.py
+CF196C.exe                   upload-lg.py
+CF528D-ref.cpp               upload-proxy.py
+CF528D.cpp                   upload-simple.py
+CF528D.exe                   upload.py
+CF986D.cpp                   upload.rar
+cfysxt.cpp                   wcgf.py
+c_cpp_properties.json        wget.exe
+default.py                   xjoi.rar
+Default.rdp                  __pycache__.rar
+dinic.cpp                    
+dinic_t.cpp                  
+              84 个文件     46,126,350 字节
+               2 个目录 107,823,136,768 可用字节
